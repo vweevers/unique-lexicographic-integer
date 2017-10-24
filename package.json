@@ -1,0 +1,28 @@
+{
+  "name": "unique-lexicographic-integer",
+  "version": "0.0.1",
+  "description": "lexicographic-integer plus a suffix if input is the same as the last call",
+  "license": "MIT",
+  "author": "Vincent Weevers",
+  "scripts": {
+    "test": "standard && doctap readme.md"
+  },
+  "dependencies": {
+    "lexicographic-integer-encoding": "~1.0.0"
+  },
+  "devDependencies": {
+    "doctap": "^0.0.2",
+    "standard": "~10.0.3"
+  },
+  "keywords": [
+    "integer",
+    "lexicographic"
+  ],
+  "engines": {
+    "node": ">=4",
+    "npm": ">=2.0.0"
+  },
+  "repository": "vweevers/unique-lexicographic-integer",
+  "bugs": "https://github.com/vweevers/unique-lexicographic-integer/issues",
+  "homepage": "https://github.com/vweevers/unique-lexicographic-integer"
+}
