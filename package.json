@@ -1,6 +1,6 @@
 {
   "name": "unique-lexicographic-integer",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "lexicographic-integer plus a suffix if input is the same as the last call",
   "license": "MIT",
   "author": "Vincent Weevers",
